@@ -23,6 +23,6 @@ PRODUCT_MANUFACTURER := motorola
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="caprip_retail-user 12 S0RCS32.41-10-19-23 a67b9-b3a31 release-keys" \
-    BuildFingerprint=motorola/caprip_retail/caprip:12/S0RCS32.41-10-19-23/a67b9-b3a31:user/release-keys \
+    BuildDesc="caprip_retail-user 12 S0RC32.41-10-19-25 9b06d-e623ce release-keys" \
+    BuildFingerprint=motorola/caprip_retail/caprip:12/S0RC32.41-10-19-25/9b06d-e623ce:user/release-keys \
     DeviceProduct=caprip_retail

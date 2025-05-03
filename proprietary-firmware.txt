@@ -1,4 +1,4 @@
-# All firmware images below are extracted from caprip_retail S0RCS32.41-10-19-23
+# All firmware images below are extracted from the release mentioned in proprietary-files.txt
 
 abl.elf:abl.img;AB
 BTFM.bin:bluetooth.img;AB
